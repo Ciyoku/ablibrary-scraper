@@ -1,4 +1,4 @@
-# htmlbooks2txt
+# ablibrary-scraper
 
 Convert ABLibrary book pages into one plain-text document.
 
