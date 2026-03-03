@@ -1,6 +1,6 @@
 # ablibrary-scraper
 
-Convert ABLibrary book pages into one plain-text document.
+Convert [ABLibrary](https://ablibrary.net) book pages into one plain-text document.
 
 ## How it works
 
